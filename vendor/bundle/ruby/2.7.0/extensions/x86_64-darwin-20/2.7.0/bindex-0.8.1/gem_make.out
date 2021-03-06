@@ -1,0 +1,15 @@
+current directory: /Users/beccasteinbrecher/Development/practice/odin_on_rails/my_first_rails_app/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+/Users/beccasteinbrecher/.rbenv/versions/2.7.2/bin/ruby -I /Users/beccasteinbrecher/.rbenv/versions/2.7.2/lib/ruby/2.7.0 -r ./siteconf20210306-48276-1wpvmo2.rb extconf.rb
+creating Makefile
+
+current directory: /Users/beccasteinbrecher/Development/practice/odin_on_rails/my_first_rails_app/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" clean
+
+current directory: /Users/beccasteinbrecher/Development/practice/odin_on_rails/my_first_rails_app/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR="
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.bundle
+
+current directory: /Users/beccasteinbrecher/Development/practice/odin_on_rails/my_first_rails_app/vendor/bundle/ruby/2.7.0/gems/bindex-0.8.1/ext/skiptrace
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 cruby.bundle ./.gem.20210306-48276-134jin6/skiptrace/internal
